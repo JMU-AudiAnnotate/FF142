@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Yusef Komunyakaa Interview, 9-24-2004 (FF142)" ] },
+    "summary": { "en": [ "Tony Bolden interviews Yusef Komunyakaa, camera stays on Komunyakaa." ] },
+    "items": [
+    ]
+}
