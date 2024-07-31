@@ -23,6 +23,24 @@
         "id": "https://JMU-AudiAnnotate.github.io/FF142/yusef-komunyakaa-interview-9-24-2004-ff142-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1923,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FF142/annotations/yusef-komunyakaa-interview-9-24-2004-ff142--canvas-1-speaker.json",
+            "label": {
+              "none": ["Speaker"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FF142/annotations/yusef-komunyakaa-interview-9-24-2004-ff142--canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FF142/yusef-komunyakaa-interview-9-24-2004-ff142-/canvas-1/paintings",
